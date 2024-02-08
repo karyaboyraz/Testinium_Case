@@ -6,7 +6,7 @@ This is an executable specification file which follows markdown syntax.
 Every heading in this file denotes a scenario. Every bulleted point denotes a step.
 
 
-## Selenium Web Otomation
+## Selenium Web Otomasyon
 * Open Website
 
 * Get Excel Value Row "1" Col "1" and Search "false"
